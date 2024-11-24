@@ -122,7 +122,8 @@ venv/Scripts/activate
 ## 3. Запуск программы
 
 ```shell
-py main.py 
+python assembler.py test.txt binary_output.bin --log_file log.csv
+python inter.py binary_output.bin result.csv --memory_range 0 14 
 ```
 ## 4. Тестирование программы
 ![image](https://github.com/user-attachments/assets/031ca99e-4ea9-4800-ba4e-4fafc8a7347d)
