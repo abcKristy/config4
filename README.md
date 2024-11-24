@@ -124,3 +124,7 @@ venv/Scripts/activate
 ```shell
 py main.py 
 ```
+## 4. Тестирование программы
+![image](https://github.com/user-attachments/assets/031ca99e-4ea9-4800-ba4e-4fafc8a7347d)
+![image](https://github.com/user-attachments/assets/cfb78b91-7fdd-4138-ae1e-809dbb993be6)
+
